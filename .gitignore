@@ -1,0 +1,34 @@
+# Compiled class files & build directories
+target/
+**/target/
+
+# Maven local repository cache
+.m2/
+**/.m2/
+
+# Maven wrapper jar
+!**/.mvn/wrapper/maven-wrapper.jar
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE & Editor files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+.sts4-cache/
+.springBeans
+
+# OS generated files
+Thumbs.db
+.DS_Store
